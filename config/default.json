@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://najma123:najma123@mernproject-xs4ns.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "myjwtsecret"
+}
